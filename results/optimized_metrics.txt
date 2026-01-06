@@ -1,0 +1,18 @@
+Model: mobilenet_v2_dynamic_int8
+Timestamp: 2026-01-07 00:47:54.833685
+
+Inference Time (ms):
+  mean: 15.29
+  std: 1.20
+  min: 13.88
+  max: 18.89
+  median: 14.94
+
+Model Size (MB): 9.94
+Memory Usage (MB): 0.0
+
+Accuracy:
+  Top-1: 0.00%
+  Top-5: 0.00%
+
+Throughput (images/sec): 64.8
